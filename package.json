@@ -1,10 +1,10 @@
 {
-  "name": "nodeunblocker.com",
+  "name": "UnderWare Unblocker",
   "description": "Web proxy for evading internet censorship",
-  "author": "Nathan Friedly - http://nfriedly.com",
-  "version": "1.0.0",
+  "author": "Ooga Booga",
+  "version": "public release null",
   "private": true,
-  "homepage": "https://github.com/nfriedly/nodeunblocker.com/",
+  "homepage": "classroom.google.com",
   "dependencies": {
     "express": "^4.13.0",
     "gatling": "^2.0.0",
