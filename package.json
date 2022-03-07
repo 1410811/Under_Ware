@@ -1,6 +1,6 @@
 {
   "name": "UnderWare Unblocker",
-  "description": "Web proxy for evading internet censorship",
+  "description": "UnderWare uses SOCKS 5 Proxies to insure the best possible website experience.",
   "author": "Ooga Booga",
   "version": "public release null",
   "private": true,
