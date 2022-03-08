@@ -2,7 +2,7 @@
   "name": "UnderWare Unblocker",
   "description": "UnderWare uses SOCKS 5 Proxies to insure the best possible website experience.",
   "author": "Ooga Booga",
-  "version": "public release null",
+  "version": "public release 1",
   "private": true,
   "homepage": "classroom.google.com",
   "dependencies": {
