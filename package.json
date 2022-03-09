@@ -3,7 +3,7 @@
   "description": "UnderWare uses SOCKS 5 Proxies to insure the best possible website experience.",
   "author": "Ooga Booga",
   "version": "public release 1",
-  "private": true,
+  "private": "true",
   "homepage": "classroom.google.com",
   "dependencies": {
     "express": "^4.13.0",
