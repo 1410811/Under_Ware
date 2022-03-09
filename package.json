@@ -1,10 +1,10 @@
 {
   "name": "UnderWare Unblocker",
-  "description": "UnderWare uses SOCKS 5 Proxies to insure the best possible website experience.",
+  "description": "no u didnt",
   "author": "Ooga Booga",
   "version": "public release 1",
   "private": "true",
-  "homepage": "classroom.google.com",
+  "homepage": "https://classroom.google.com",
   "dependencies": {
     "express": "^4.13.0",
     "gatling": "^2.0.0",
